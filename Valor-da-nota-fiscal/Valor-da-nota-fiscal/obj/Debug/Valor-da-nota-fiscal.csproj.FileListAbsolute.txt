@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\bin\Debug\Valor-da-nota-fiscal.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\bin\Debug\Valor-da-nota-fiscal.exe
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\bin\Debug\Valor-da-nota-fiscal.pdb
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor-da-nota-fiscal.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor_da_nota_fiscal.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor_da_nota_fiscal.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor-da-nota-fiscal.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor-da-nota-fiscal.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor-da-nota-fiscal.exe
+C:\Users\ven72\Desktop\Nova pasta\Valor-da-nota-fiscal\Valor-da-nota-fiscal\obj\Debug\Valor-da-nota-fiscal.pdb

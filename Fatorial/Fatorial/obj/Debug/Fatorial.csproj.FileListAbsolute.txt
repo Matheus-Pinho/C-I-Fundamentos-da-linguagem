@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\ven72\Desktop\Nova pasta\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

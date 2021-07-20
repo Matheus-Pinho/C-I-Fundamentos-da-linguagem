@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\bin\Debug\Conta-Bancaria.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\bin\Debug\Conta-Bancaria.exe
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\bin\Debug\Conta-Bancaria.pdb
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta-Bancaria.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta_Bancaria.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta_Bancaria.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta-Bancaria.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta-Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta-Bancaria.exe
+C:\Users\ven72\Desktop\Nova pasta\Conta-Bancaria\Conta-Bancaria\obj\Debug\Conta-Bancaria.pdb

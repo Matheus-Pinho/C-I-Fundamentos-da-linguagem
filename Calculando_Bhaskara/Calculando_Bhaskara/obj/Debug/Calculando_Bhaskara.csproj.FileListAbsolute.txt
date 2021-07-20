@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\bin\Debug\Calculando_Bhaskara.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\bin\Debug\Calculando_Bhaskara.exe
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\bin\Debug\Calculando_Bhaskara.pdb
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.exe
+C:\Users\ven72\Desktop\Nova pasta\Calculando_Bhaskara\Calculando_Bhaskara\obj\Debug\Calculando_Bhaskara.pdb

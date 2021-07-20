@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\bin\Debug\Transferencia.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\bin\Debug\Transferencia.exe
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\bin\Debug\Transferencia.pdb
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.exe
+C:\Users\ven72\Desktop\Nova pasta\Transferencia\Transferencia\obj\Debug\Transferencia.pdb

@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\bin\Debug\Investimento.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\bin\Debug\Investimento.exe
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\bin\Debug\Investimento.pdb
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.exe
+C:\Users\ven72\Desktop\Nova pasta\Investimento\Investimento\obj\Debug\Investimento.pdb

@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\bin\Debug\Votação.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\bin\Debug\Votação.exe
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\bin\Debug\Votação.pdb
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.exe
+C:\Users\ven72\Desktop\Nova pasta\Votação\Votação\obj\Debug\Votação.pdb

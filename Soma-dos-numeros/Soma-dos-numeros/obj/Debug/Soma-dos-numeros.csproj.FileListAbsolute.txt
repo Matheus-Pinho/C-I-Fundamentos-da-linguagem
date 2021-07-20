@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\bin\Debug\Soma-dos-numeros.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\bin\Debug\Soma-dos-numeros.exe
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\bin\Debug\Soma-dos-numeros.pdb
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma-dos-numeros.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma_dos_numeros.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma_dos_numeros.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma-dos-numeros.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma-dos-numeros.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma-dos-numeros.exe
+C:\Users\ven72\Desktop\Nova pasta\Soma-dos-numeros\Soma-dos-numeros\obj\Debug\Soma-dos-numeros.pdb

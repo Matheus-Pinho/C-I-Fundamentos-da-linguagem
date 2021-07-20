@@ -1,0 +1,10 @@
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média-idade.csprojAssemblyReference.cache
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média_idade.Form1.resources
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média_idade.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média-idade.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média-idade.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\bin\Debug\Média-idade.exe.config
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\bin\Debug\Média-idade.exe
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\bin\Debug\Média-idade.pdb
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média-idade.exe
+C:\Users\ven72\Desktop\Nova pasta\Média-idade\Média-idade\obj\Debug\Média-idade.pdb
